@@ -11,6 +11,8 @@ of the model’s autoregressive generation process,
 ensuring that the generated content is better aligned
 with the target document corpus.
 
+<img src="framework.png" alt="framework" style="width: 800px; height: 500px;">
+
 ## Citation
 
 ```
